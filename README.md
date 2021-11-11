@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleti.Saisravan</h1>
 <h3 align="center">A passionate frontend developer from India,Android Enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/@oletisravan" target="blank"><img src="https://img.shields.io/twitter/follow/@oletisravan?logo=twitter&style=for-the-badge" alt="@oletisravan" /></a> @oletisravan</p>
+<p align="left"> <a href="https://twitter.com/@oletisravan" target="blank"><img src="https://img.shields.io/twitter/follow/@oletisravan?logo=twitter&style=for-the-badge" alt="@oletisravan" /></a></p>
 
 - 🔭 I’m currently working on [College-Management-System](https://github.com/SaiSravaN-Oleti/College_Management_System.git)
 
