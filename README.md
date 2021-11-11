@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oleti.Saisravan</h1>
 <h3 align="center">A passionate frontend developer from India,Android Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sairavan&label=Profile%20views&color=0e75b6&style=flat" alt="sairavan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sairavan" alt="sairavan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@oletisravan" target="blank"><img src="https://img.shields.io/twitter/follow/@oletisravan?logo=twitter&style=for-the-badge" alt="@oletisravan" /></a> </p>
 
 - 🔭 I’m currently working on [College-Management-System](https://github.com/SaiSravaN-Oleti/College_Management_System.git)
